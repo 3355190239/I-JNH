@@ -8,8 +8,8 @@ import hashlib
 import math
 import os
 
-username = '202412492138'+'@campus'
-password = 'jzy000925.'
+username = '202411111111'+'@campus'
+password = '112222222222'
 get_ip_api='http://10.32.2.6/cgi-bin/rad_user_info?callback=jQuery'
 get_challenge_api="http://10.32.2.6/cgi-bin/get_challenge"
 srun_portal_api="http://10.32.2.6/cgi-bin/srun_portal"
